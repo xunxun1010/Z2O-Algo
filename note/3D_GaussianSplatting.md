@@ -141,7 +141,7 @@ $$
 
 其中J是射影变换的仿射近似的雅可比矩阵。
 #### 4.3.2渲染
-论文的渲染方法为 Tiled-based Rasterizer，其流程为：  
+论文的渲染方法为 Tiled-based Rasterizer，其流程为：www
 
 
 
