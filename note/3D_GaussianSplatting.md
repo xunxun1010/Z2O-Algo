@@ -6,7 +6,7 @@
 4. [球谐函数](https://zhuanlan.zhihu.com/p/351289217)
 # 1前言
 ## 1.1主要贡献
-1.引入各向异性3D高斯（Anisotropic 3D Gaussians）：提出了一种高效、非结构化的三维场景表示方法，利用3D高斯函数作为几何原语来捕捉复杂场景的辐射场。  
+1.引入各向异性3D高斯（Anisotropic 3D Gaussians）：提出了一种高效、非结构化的三维场景表示方法，利用3D高斯函数作为几何原语来捕捉复杂场景的辐射场1。  
 2.自适应密度控制（Adaptive Density Control）：设计了一套交替进行的优化与密度控制方案，能够通过克隆（Clone）或分裂（Split）高斯点来精准匹配场景几何。  
 3.高速微分渲染器（Fast Differentiable Renderer）：开发了基于瓦片的（Tile-based）光栅化算法，支持各向异性点喷绘（Splatting），在保证 SOTA 级画质的同时实现了1080p分辨率下的实时渲染。
 ## 1.2解决问题
