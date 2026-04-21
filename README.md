@@ -13,7 +13,7 @@
 ### 4.3d高斯溅射
 1.[3D_GaussianSplatting](./note/3D_GaussianSplatting.md)
 ### 5.图像增强
-1.[Diff-Retinex: Rethinking Low-light Image Enhancement with A GenerativeDiffusion Model](./note/)
+1.[Diff-Retinex: Rethinking Low-light Image Enhancement with A GenerativeDiffusion Model](./note/diff-retinex.md)
 ## 3.相关项目文件
 
 ​
