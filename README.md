@@ -10,7 +10,8 @@
 
 ### 2.vit
 1.[Vision Transformer](./note/vit)
-
+1.1[day1_vitusage](./note/vit/day1)  
+1.2[day2_simplevit](./note/vit/day2)
 ## 3.论文学习笔记
 ### 1.3d高斯溅射
 1.[3D_GaussianSplatting](./note/3D_GaussianSplatting.md)
