@@ -29,7 +29,7 @@ This is a full-stack engineering development and related tools learning project 
 ### 3.CLaudecode
 1.[day1_claudecode_deepseek](https://github.com/xunxun1010/Claudecode_deepseekv4/blob/main/note/day1_deepseekv4.md)  
 2.[day2_mcp/subagent/agentskill/hook/](https://github.com/xunxun1010/Claudecode_deepseekv4/blob/main/note/day2_claudecodelearn_.md)
-
+3.[day3_claudecodedoc]()
 
 
 
