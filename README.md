@@ -1,7 +1,7 @@
 # Algorithm Learning from Scratch
 
 ## 1.前言
-这是一个用于学习一些python库及相关工具的项目，主要用于学习笔记的记录。
+This is a full-stack engineering development and related tools learning project from scratch, mainly used for recording study notes.
 
 ## 2.源码学习笔记
 ### 1.PYTORCH
