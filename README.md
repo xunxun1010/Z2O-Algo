@@ -26,8 +26,9 @@
 1.[git初步学习-2025.11.17笔记]()
 ### 2.Linux
 1.[linux](./note/linux)  
-
-3.
+### 3.CLaudecode
+1.[day1_claudecode_deepseek](https://github.com/xunxun1010/Claudecode_deepseekv4/blob/main/note/day1_deepseekv4.md)
+2.[day2_mcp/subagent/agentskill/hook/](https://github.com/xunxun1010/Claudecode_deepseekv4/blob/main/note/claudecodelearn_day1.md)
 
 
 
