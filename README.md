@@ -18,7 +18,8 @@ This is a full-stack engineering development and related tools learning project 
 1.[3D_GaussianSplatting](./note/3D_GaussianSplatting.md)
 ### 2.图像增强
 1.[Diff-Retinex: Rethinking Low-light Image Enhancement with A GenerativeDiffusion Model](./note/diff-retinex.md)  
-2.[Reflection_Removal_Using_a_Dual-Pixel_Sensor](./note/image_enhacement/reflection_dp.md)  
+2.[Reflection_Removal_Using_a_Dual-Pixel_Sensor](./note/image_enhancement/reflection_dp.md)  
+
 ### 3.遥感
 1.[Fourier Angle Alignment for Oriented Object Detection in Remote Sensing]
 ### 3.yolo
