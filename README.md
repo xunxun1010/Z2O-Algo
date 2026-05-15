@@ -21,7 +21,7 @@ This is a full-stack engineering development and related tools learning project 
 2.[4/5 Reflection_Removal_Using_a_Dual-Pixel_Sensor](./note/image_enhancement/reflection_dp.md)  
 
 ### 3.遥感
-1.[4.5/5 Fourier Angle Alignment for Oriented Object Detection in Remote Sensing](./note/Remote_sensing/faa_obb)
+1.[4.5/5 Fourier Angle Alignment for Oriented Object Detection in Remote Sensing](./note/Remote_sensing/faa_obb.md)
 ### 3.yolo
 ## 4.工具学习笔记
 
