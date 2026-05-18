@@ -15,7 +15,7 @@ This is a full-stack engineering development and related tools learning project 
 1.3[day3_NaViT](./note/vit/day3.md)  
 ## 3.论文学习笔记
 ### 1.3d重建  
-1.[3D_GaussianSplatting](./note/3D_GaussianSplatting.md)  
+1.[3D_GaussianSplatting](./note/3drec/3D_GaussianSplatting.md)  
 2.[SR3R: Rethinking Super-Resolution 3D Reconstruction With Feed-Forward Models](./note/3drec/sr3r.md)
 ### 2.图像增强
 1.[Diff-Retinex: Rethinking Low-light Image Enhancement with A GenerativeDiffusion Model](./note/diff-retinex.md)  
