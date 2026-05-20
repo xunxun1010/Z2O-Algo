@@ -41,4 +41,7 @@ This is a full-stack engineering development and related tools learning project 
 2.[anthropics_skills](https://github.com/xunxun1010/skill/blob/main/notes/anthropics_skills.md)  
 3.[]()
 
+## 5.个人项目
 
+### 1.水下航行器
+1.[rov航行器硬件学习](https://github.com/xunxun1010/Underwater-Robot-Firmware-System-Learning/blob/main/README.md)
