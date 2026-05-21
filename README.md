@@ -44,4 +44,5 @@ This is a full-stack engineering development and related tools learning project 
 ## 5.个人项目
 
 ### 1.水下航行器
-1.[rov航行器硬件学习](https://github.com/xunxun1010/Underwater-Robot-Firmware-System-Learning/blob/main/README.md)
+1.[rov航行器硬件学习](https://github.com/xunxun1010/Underwater-Robot-Firmware-System-Learning/blob/main/README.md)  
+2.[rov航行器上位机学习]()  
