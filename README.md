@@ -35,7 +35,9 @@ This is a full-stack engineering development and related tools learning project 
 1.[day1_claudecode_deepseek](https://github.com/xunxun1010/Claudecode_deepseekv4/blob/main/note/day1_deepseekv4.md)  
 2.[day2_mcp/subagent/agentskill/hook/](https://github.com/xunxun1010/Claudecode_deepseekv4/blob/main/note/day2_claudecodelearn_.md)  
 3.[day3_claudecodedoc](https://github.com/xunxun1010/Claudecode_deepseekv4/blob/main/note/day3_claudecodedoc.md)  
-4.[day4_吴恩达]
+4.[day4_吴恩达]()  
+tips问题解决  
+1.Claude更新问题，找不到程序[tips1]()
 ### 3.2skill
 1.[notes:emil-design-eng](https://github.com/xunxun1010/skill/blob/main/notes/emil-design-eng.md)  
 2.[anthropics_skills](https://github.com/xunxun1010/skill/blob/main/notes/anthropics_skills.md)  
