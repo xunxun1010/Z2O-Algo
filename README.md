@@ -13,7 +13,7 @@ This is a full-stack engineering development and related tools learning project 
 1.1[day1_vitusage](./note/vit/day1.md)    
 1.2[day2_simplevit](./note/vit/day2.md)  
 1.3[day3_NaViT](./note/vit/day3.md)  
-1.4[day4_]
+1.4[day4_transformer](./note/vit/day4.md)  
 ## 3.论文学习笔记
 ### 1.3d重建  
 1.[3D_GaussianSplatting](./note/3drec/3D_GaussianSplatting.md)  
