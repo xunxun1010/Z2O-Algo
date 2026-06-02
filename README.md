@@ -21,7 +21,8 @@ This is a full-stack engineering development and related tools learning project 
 ### 2.图像增强
 1.[Diff-Retinex: Rethinking Low-light Image Enhancement with A GenerativeDiffusion Model](./note/diff-retinex.md)  
 2.[4/5 Reflection_Removal_Using_a_Dual-Pixel_Sensor](./note/image_enhancement/reflection_dp.md)  
-3.[4/5 Decouple-to-fuse: ](note/image_enhancement/Decouple-to-fuse.md)
+3.[4/5 Decouple-to-fuse: ](note/image_enhancement/Decouple-to-fuse.md)  
+4.
 
 ### 3.遥感
 1.[4.5/5 Fourier Angle Alignment for Oriented Object Detection in Remote Sensing](./note/Remote_sensing/faa_obb.md)
@@ -42,10 +43,14 @@ tips问题解决
 ### 3.2skill
 1.[notes:emil-design-eng](https://github.com/xunxun1010/skill/blob/main/notes/emil-design-eng.md)  
 2.[anthropics_skills](https://github.com/xunxun1010/skill/blob/main/notes/anthropics_skills.md)  
-3.[]()
+3.[]()  
 
 ## 5.个人项目
 
 ### 1.水下航行器
 1.[rov航行器硬件学习](https://github.com/xunxun1010/Underwater-Robot-Firmware-System-Learning/blob/main/README.md)  
 2.[rov航行器上位机学习]()  
+
+
+## 6.答辩准备
+1.[基础概念解析ie](./note/Defense/base1.md)  
