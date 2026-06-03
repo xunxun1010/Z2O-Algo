@@ -45,6 +45,9 @@ tips问题解决
 2.[anthropics_skills](https://github.com/xunxun1010/skill/blob/main/notes/anthropics_skills.md)  
 3.[]()  
 
+### 4.codex
+1.[配置文件]()
+
 ## 5.个人项目
 
 ### 1.水下航行器
