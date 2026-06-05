@@ -43,7 +43,7 @@ tips问题解决
 ### 3.2skill
 1.[notes:emil-design-eng](https://github.com/xunxun1010/skill/blob/main/notes/emil-design-eng.md)  
 2.[anthropics_skills](https://github.com/xunxun1010/skill/blob/main/notes/anthropics_skills.md)  
-3.[导师评价skill]()  
+3.[导师评价skill](https://github.com/xunxun1010/skill/blob/main/notes/Academic%20Detective.md)  
 
 ### 4.codex
 1.[配置文件]()
