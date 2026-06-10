@@ -57,3 +57,4 @@ tips问题解决
 
 ## 6.答辩准备
 1.[基础概念解析ie](./note/Defense/base1.md)  
+2.[个人论文uie](https://github.com/xunxun1010/UIE_cv)  
