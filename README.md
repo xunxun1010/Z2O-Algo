@@ -53,7 +53,7 @@ tips问题解决
 ### 1.水下航行器
 1.[rov航行器硬件学习](https://github.com/xunxun1010/Underwater-Robot-Firmware-System-Learning/blob/main/README.md)  
 2.[rov航行器上位机学习]()  
-
+### 2.基于仿生双足机器人的水火弯板三维重建项目
 
 ## 6.答辩准备
 1.[基础概念解析ie](./note/Defense/base1.md)  
