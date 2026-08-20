@@ -39,12 +39,14 @@ This is a full-stack engineering development and related tools learning project 
 3.[day3_claudecodedoc](https://github.com/xunxun1010/Claudecode_deepseekv4/blob/main/note/day3_claudecodedoc.md)  
 4.[day4_吴恩达]()  
 tips问题解决  
+
 1.Claude更新问题，找不到程序[tips1]()
 ### 3.2skill
 1.[notes:emil-design-eng](https://github.com/xunxun1010/skill/blob/main/notes/emil-design-eng.md)  
 2.[anthropics_skills](https://github.com/xunxun1010/skill/blob/main/notes/anthropics_skills.md)  
 3.[导师评价skill](https://github.com/xunxun1010/skill/blob/main/notes/Academic%20Detective.md)  
-
+### 3.3cli
+1.[cli参考手册]()
 ### 4.codex
 1.[配置文件]()
 
